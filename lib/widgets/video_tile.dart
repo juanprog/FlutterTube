@@ -2,9 +2,8 @@ import 'package:bloc_pattern/bloc_pattern.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_youtube/flutter_youtube.dart';
 import 'package:fluttertube/blocs/favorite_bloc.dart';
+import 'package:fluttertube/consts.dart';
 import 'package:fluttertube/models/video.dart';
-
-import '../api.dart';
 
 class VideoTile extends StatelessWidget {
   final Video video;

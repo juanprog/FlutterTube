@@ -1,15 +1,8 @@
 import 'dart:convert';
 
+import 'package:fluttertube/consts.dart';
 import 'package:fluttertube/models/video.dart';
 import "package:http/http.dart" as http;
-
-const API_KEY = "";
-
-/* 
-
-
-
-*/
 
 class Api {
   String _search;
