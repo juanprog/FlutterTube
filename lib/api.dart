@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:fluttertube/models/video.dart';
 import "package:http/http.dart" as http;
 
-const API_KEY = "AIzaSyDce6C8SaVE-nAItEYPrq8Wj7tizy89rMY";
+const API_KEY = "";
 
 /* 
 
